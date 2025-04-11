@@ -10,7 +10,7 @@ Built with:
 - **Frontend:** React.js
 - **Backend:** Node.js + Express.js
 - **Database:** MongoDB (Mongoose)
-- **AI Integration:** Cohere AI
+- **AI Integration:** Chatgpt AI
 
 ---
 
@@ -27,7 +27,7 @@ Built with:
 - Store all orders in MongoDB
 
 ### 🤖 Chatbot Features
-- Built using **Cohere AI**
+- Built using **Chatgpt AI**
 - Understands natural language queries
 - Handles:
   - Product search
@@ -80,8 +80,6 @@ React.js (Frontend UI)
 Node.js + Express (Backend API)
 
 MongoDB + Mongoose (Database)
-
-Cohere AI (Chatbot intelligence)
 
 CSS/Tailwind (Styling)
 
