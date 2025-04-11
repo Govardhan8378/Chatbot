@@ -48,7 +48,7 @@ project-root/
 
 cd backend
 npm install
-# Add your MongoDB URI and Cohere API Key to .env
+# Add your MongoDB URI and Chatgpt API Key to .env
 npm start
 
 
